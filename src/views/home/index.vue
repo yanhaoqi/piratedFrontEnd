@@ -1,11 +1,11 @@
 <template>
   <section>
-    home
+    <canvas id="myCanvas"></canvas>
   </section>
 </template>
 <script>
 
 </script>
-<style>
+<style lang="less" scoped>
 
 </style>
